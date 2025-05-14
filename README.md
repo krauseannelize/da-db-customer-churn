@@ -1,11 +1,11 @@
 # Databel Customer Churn Dashboard
 
 ## Tools & Skills Used
-![Excel](https://img.shields.io/badge/Excel-DataProcessing-%23217346)
-![Excel](https://img.shields.io/badge/Excel-DataAnalysis-%23217346)
+![Excel](https://img.shields.io/badge/Excel-Data%20Processing-%23217346)
+![Excel](https://img.shields.io/badge/Excel-Data%20Analysis-%23217346)
 ![Excel](https://img.shields.io/badge/Excel-Dashboard-%23217346)
-![Excel](https://img.shields.io/badge/Excel-DynamicVisualization-%23217346)
-![CapCut](https://img.shields.io/badge/CapCut-VideoPresentation-%23008080)
+![Excel](https://img.shields.io/badge/Excel-Dynamic%20Visualization-%23217346)
+![CapCut](https://img.shields.io/badge/CapCut-Video%20Presentation-%23008080)
 
 ## Quick Access
 - [Raw Data](/databel-customer-churn-data.xlsx)
