@@ -1,5 +1,12 @@
 # Databel Customer Churn Dashboard
 
+## Tools & Skills Used
+![Excel](https://img.shields.io/badge/Excel-DataProcessing-%23217346)
+![Excel](https://img.shields.io/badge/Excel-DataAnalysis-%23217346)
+![Excel](https://img.shields.io/badge/Excel-Dashboard-%23217346)
+![Excel](https://img.shields.io/badge/Excel-DynamicVisualization-%23217346)
+![CapCut](https://img.shields.io/badge/CapCut-VideoPresentation-%23008080)
+
 ## Quick Access
 - [Raw Data](/databel-customer-churn-data.xlsx)
 - [Datacamp's Metadata Sheet](/databel-customer-churn-metadata-sheet.pdf)
